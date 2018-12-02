@@ -27,3 +27,15 @@
     border-left-color: transparent;
     transform: rotateZ(77deg);
 }
+.lower{
+    position: relative;
+    display: inline-block;
+    left:330px;
+    top:175px;
+    width:130px;
+    height:450px;
+    border:47px solid #c1224f;
+    border-radius: 80%;
+    border-left-color: transparent;
+    transform: rotateZ(-100deg);
+}
