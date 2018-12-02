@@ -1,0 +1,13 @@
+.dribbble{
+    /* display:inline; */
+    /* display: flex; */
+    margin-left:300px;
+    margin-top: 40px;
+    width:500px;
+    height:500px;
+    border-radius: 50%;
+    border:30px solid #c1224f;
+    justify-content: center;
+    /* box-sizing: border-box; */
+    
+}
