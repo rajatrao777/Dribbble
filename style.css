@@ -1,13 +1,29 @@
+.whole{
+    position: relative;
+}
 .dribbble{
     /* display:inline; */
     /* display: flex; */
+    position: absolute;
     margin-left:300px;
     margin-top: 40px;
     width:500px;
     height:500px;
     border-radius: 50%;
-    border:30px solid #c1224f;
+    border:50px solid #c1224f;
     justify-content: center;
     /* box-sizing: border-box; */
-    
+    background-color:#d22775;
+}
+.upper{
+    position: relative;
+    display: inline-block;
+    left:487px;
+    top:-47px;
+    width:80px;
+    height:459px;
+    border:47px solid #c1224f;
+    border-radius: 80%;
+    border-left-color: transparent;
+    transform: rotateZ(77deg);
 }
