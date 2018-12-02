@@ -1,11 +1,15 @@
 .whole{
     position: relative;
+    width:800px;
+    height:700px;
+    
+    background-color: black;
 }
 .dribbble{
     /* display:inline; */
     /* display: flex; */
     position: absolute;
-    margin-left:300px;
+    margin-left:100px;
     margin-top: 40px;
     width:500px;
     height:500px;
@@ -18,7 +22,7 @@
 .upper{
     position: relative;
     display: inline-block;
-    left:487px;
+    left:287px;
     top:-47px;
     width:80px;
     height:459px;
@@ -30,7 +34,7 @@
 .lower{
     position: relative;
     display: inline-block;
-    left:353px;
+    left:153px;
     top:175px;
     width:130px;
     height:450px;
@@ -42,7 +46,7 @@
 .center{
     position: absolute;
     display: inline-block;
-    left:430px;
+    left:230px;
     top:75px;
     width:130px;
     height:495px;
